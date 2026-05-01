@@ -1,0 +1,16 @@
+{
+  "bypass_config": {
+    "version": "OB53_Safe",
+    "anti_report": true,
+    "block_telemetry": true,
+    "dns_rules": [
+      "gin.freefiremobile.com",
+      "gamesecurity.sea.freefiremobile.com",
+      "crashlytics.com"
+    ],
+    "integrity_mask": {
+      "force_valid": true,
+      "fake_hash": "a1b2c3d4e5f6..."
+    }
+  }
+}
