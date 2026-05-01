@@ -1,0 +1,21 @@
+{
+  "SensibilitySettings": {
+    "General": 95,
+    "RedDot": 88,
+    "Scope2x": 82,
+    "Scope4x": 75,
+    "Sniper": 50,
+    "FreeLook": 60
+  },
+  "InputOptimization": {
+    "TouchResponseDelay": 0.01,
+    "StabilizationFactor": 1.45,
+    "FrictionReduction": 0.25,
+    "VerticalMultiplier": 1.85
+  },
+  "LegitAssist": {
+    "MagnetismRadius": 12.0,
+    "SmoothTransition": 0.15,
+    "LockOnHeadDelay": 0.05
+  }
+}
