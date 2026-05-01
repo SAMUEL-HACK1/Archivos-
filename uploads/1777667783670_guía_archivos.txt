@@ -1,0 +1,56 @@
+GUIA BASICA PARA USAR ARCHIVOS
+=================================
+PatoModzX ofc
+=================================
+Primero tenemos el freefire normal ⚙️
+
+🟢 Tips para FF Normal (Play Store)
+=================================
+La versión normal tiene una seguridad más "ligera" que la Global, pero detecta cambios de archivos más rápido si no se hace lo siguiente:
+Limpieza de Caché: Antes de colocarte los archivos en data borra la caché del juego desde los ajustes de Android o de la app 
+
+Entrada Directa: A diferencia del Global, aquí no necesitas reconectar siempre, pero sí es obligatorio que ciertos archivos no se muevan de su lugar 
+
+Potencia Gradual: siempre hago un archivo y con la versión normal, el imán (a imán me refiero a un tipo de aimbot) se siente más fluido si usas una sensibilidad general media 
+(60-80) para que el DPI Boost del código haga el resto (ojo que esta sensibilidad es muy baja, no la uses solo porque es recomendación)
+===================================
+🔴 Tips para FF MAX
+=================================
+El MAX es más pesado y exige más al procesador (como en el Poco F3 o Samsung S22 o dispositivos que me han estado pidiendo), por lo que el método cambia un poco:
+
+Optimización de Gráficos: Para que el Zero Vibration (archivo) no cause lag, pon los gráficos en "Suave" pero los FPS en "Alto"; esto ayuda a que el código lea los offsets (cosas del archivo para funcionamiento) del metadata más rápido.
+
+
+Carga de Compulsory: En el MAX, es fundamental que los archivos no se muevan de lugar, porque tiene cambios constantes de códigos y puede afectar esto.
+
+Verificación de Data: Si usas Android 15 o 16, el MAX a veces intenta "reparar" los archivos; si notas que dejas de pegar rojos, vuelve a borrar la memoria caché del juego, pegar el archivo en data y seguir jugando (no olvides cerrar por completo el juego)
+
+================================
+PARA FREEFIRE GLOBAL 
+=================================
+El freefire global es algo más avanzado porque tiene metadata, por lo cual es muy importante siempre procurar jugar con método, ¿y cuál es?
+⚙️Método de Reconexión (Solo para Global - Muy Especial) ⚠️
+
+Este es el truco para que los archivos "enganchen" la seguridad del juego:
+
+Entra al juego normalmente y busca una partida (Clasificatoria o DE-Clasificatorio o cualquier otro modo).
+
+Espera a tocar piso: En cuanto tu personaje caiga del avión o ya esté completamente a dispositivo de moverse o toque el suelo, cierra el juego por completo (mátalo desde las aplicaciones recientes) después vuelve a abrir nuevamente el juego,  te pedirá "Reconectar a la partida" dale que SÍ.
+
+Activación Completa: Al entrar de nuevo, los archivos de extracción de metadata (que cree) empiezan a actuar y a funcionar 
+⚠️ ADVERTENCIA  (Para todas las versiones)
+"Si pegas los archivos y entras a jugar sin reiniciar el celular o sin hacer el método de reconexión en Global, el imán (algo de los archivos ) solo funcionará a un 10% de su capacidad. Los rojos reales se activan cuando el sistema operativo 'suelta' el archivo metadata y permite que nuestros .so (archivos) tomen el control total."
+
+💡 Tips Pro para Usuarios de Gama Baja (ZTE, Tecno, Infinix)
+No muevas los archivos: Si cambias de nombre los archivos, los bypass, códigos, ajustes y todo lo que funcionaba se romperá
+
+Sensibilidad: Si sientes que la mira tiembla mucho al inicio, es porque el Anti-Shake se está calibrando; dispara una ráfaga al aire, suelo o superficie y se estabilizará después de un momento (esto es una activación de no recoil)
+
+Dispositivos Android 15/16: Si el juego se cierra al intentar reconectar, asegúrate de haber dado todos los permisos a la carpeta data desde tu gestor de archivos
+
+======================
+DIRIGIDO PARA CREADORES DE CONTENIDO SOBRE ARCHIVOS
+=================================
+SI VAS A SUBIR EL ARCHIVO,🟨 TEN UN POCO DE CORDIALIDAD Y DEJA CREDITOS EN EL ARCHIVO, DESCRIPCIÓN O COMENTARIOS Y CON ESO ESTARE MAS QUE AGRADECIDO, Y TAMBIÉN RECUERDA NO CAMBIARLE EL NOMBRE A LOS ARCHIVOS PORQUE SE DAÑARÁN POR SU SISTEMA DE ANTI RENOMBRACION ❤️‍🩹
+
+Atte: PatoModzX ❤️‍🩹⚙️
